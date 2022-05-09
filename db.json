@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "ProductName": "Redmi Note 11 Pro Max Ultra",
+      "Categiory": "Electronics",
+      "Freshness": "Brand New",
+      "Price": 19999,
+      "Comments": "good features in this device..!",
+      "date": "2022-03-16T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "ProductName": "HP laptop 123",
+      "Categiory": "Electronics",
+      "Freshness": "Brand New",
+      "Price": 70000,
+      "Comments": "good product",
+      "date": "2022-03-17T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "ProductName": "samsung galaxy",
+      "Categiory": "Electronics",
+      "Freshness": "Republished",
+      "Price": 10000,
+      "Comments": "good in condition...!",
+      "date": "2022-03-10T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "ProductName": "Iphone",
+      "Categiory": "Electronics",
+      "Freshness": "Brand New",
+      "Price": 100000,
+      "Comments": "good camera quality...!",
+      "date": "2022-03-16T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "ProductName": "Mango Fruit",
+      "Categiory": "Fruits",
+      "Freshness": "Brand New",
+      "Price": 100,
+      "Comments": "good taste",
+      "date": "2022-02-28T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "ProductName": "MacBook Pro",
+      "Categiory": "Electronics",
+      "Freshness": "Brand New",
+      "Price": 150000,
+      "Comments": "best Features..!",
+      "date": "2022-04-02T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
